@@ -1,0 +1,57 @@
+.gradle
+.gradle/
+/build/
+*/bin/
+/bin/
+*/out/
+/out/
+!gradle/wrapper/gradle-wrapper.jar
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+rebel.xml
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Gradle ###
+.lock
+*.lock
+
+logs/
+work/
+
+### reactjs ###
+reactjs/build
+reactjs/node_modules
+reactjs/.project
+src/main/webapp/main
+src/main/webapp/console
+src/main/webapp/frontend
+temp/uploads
+application-office.properties
+package-lock.json
+*.p12
+rw-app-39d51-firebase-adminsdk-67r9u-089b2b86e7.json
+.init.init
+.env.local
+node_modules
